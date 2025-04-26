@@ -91,7 +91,3 @@ O ambiente foi preparado no **Google Colab** para rápida execução e compatibi
 - Testar variações de prompt engineering para diferentes níveis de formalidade nas respostas.
 
 ---
-
-## Contato
-Davi Leyendecker  
-📧 d.leyendecker@ymail.com
