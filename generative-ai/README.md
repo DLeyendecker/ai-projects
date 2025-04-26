@@ -1,4 +1,4 @@
-## Este repositório foi criado para centralizar projetos práticos no universo da Inteligência Artificial (IA). Cada pasta contém um projeto específico, estruturado de forma independente e com documentação própria.
+### Este repositório foi criado para centralizar projetos práticos no universo da Inteligência Artificial (IA). Cada pasta contém um projeto específico, estruturado de forma independente e com documentação própria.
 O objetivo é demonstrar habilidades técnicas em diferentes áreas da IA, como:
 
 - IA Generativa
